@@ -40,7 +40,7 @@ header {
     align-items: center;
     justify-content: space-between;
     background-color: #282d3c;
-    padding: 12px;
+    padding: 16px;
     color: #ffc4b8;
     border-bottom: 1px solid #5b5d70;
 }
@@ -64,7 +64,7 @@ ul {
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap-reverse;
-    padding: 24px 12px;
+    padding: 24px 16px;
     gap: 32px;
     background-color: #282d3c;
     color: #74838c;
